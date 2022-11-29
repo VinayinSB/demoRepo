@@ -1,2 +1,2 @@
 trying to pull 
-trying to login without github login
+trying to login without github login.
